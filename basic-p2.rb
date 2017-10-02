@@ -26,7 +26,7 @@ def stock_picker(x)
         elsif i == 3
             i = "Wednesday"
         elsif i == 4
-            i = "Thurday"
+            i = "Thursday"
         elsif i == 5
             i = "Friday"
         else i == 6
