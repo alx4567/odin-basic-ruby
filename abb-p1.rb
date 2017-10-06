@@ -37,7 +37,6 @@ def bubble_sort_by(array)
 
         break if swap == false
     end
-    array
 end
 
 bubble_sort_by(["hi","hello","hey"]) do |left,right|
